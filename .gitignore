@@ -1,0 +1,6 @@
+# OS / editor
+.DS_Store
+.vscode/
+
+# Node (локал серверийн хамаарал)
+node_modules/
